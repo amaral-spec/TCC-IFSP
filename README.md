@@ -23,21 +23,6 @@ Desenvolver e validar um protótipo de aplicativo iOS capaz de identificar expre
 
 ---
 
-## Estrutura do Repositório
-
-```
-tcc-expressoes-faciais-tea/
-├── ExpressionRecognizer/          # Código-fonte do aplicativo iOS
-│   ├── Models/                    # Modelo .mlmodel gerado com Create ML
-│   ├── Views/                     # Telas e componentes da interface
-│   └── Controllers/               # Lógica de captura e inferência
-├── Docs/                          # Documentação adicional
-│   └── TCC_Gabriel_Amaral.pdf     # Trabalho completo (versão final)
-└── README.md
-```
-
----
-
 ## Expressões Reconhecidas
 
 O modelo foi treinado para classificar as seguintes expressões faciais, baseadas nas categorias do dataset FER-2013:
@@ -104,7 +89,7 @@ Pessoas com Transtorno do Espectro Autista frequentemente apresentam dificuldade
 
 **Gabriel do Amaral de Oliveira**  
 IFSP – Campus Campinas  
-Curso: Tecnologia em Análise e Desenvolvimento de Sistemas *(ou seu curso — ajuste conforme necessário)*  
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
 
 ---
 
