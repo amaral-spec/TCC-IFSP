@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-06-01T18:41:39Z",
+        "event" : "dataSourceCreated",
+        "id" : "0B222409-7FBB-40CD-AA50-B4CA63CE626D",
+        "subtitle" : "test",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2026-06-01T18:41:39Z",
+  "dataPathRelativeToProjectURL" : "../../oficial/test/",
+  "dataResult" : {
+    "createdDate" : "2026-06-01T18:41:39Z",
+    "dataSourceID" : "4F9029F5-0D98-4E63-B9EE-BDDE62F8E0F3",
+    "dataURL" : "file:///Users/gabrielamaral/Documents/TCC%20-%20IFSP/oficial/test/"
+  },
+  "dataURL" : "file:///Users/gabrielamaral/Documents/TCC%20-%20IFSP/oficial/test/",
+  "experimentIDs" : [
+    "87B726BD-E64D-4C24-B886-3502F606F480"
+  ],
+  "id" : "4F9029F5-0D98-4E63-B9EE-BDDE62F8E0F3",
+  "modifiedDate" : "2026-06-01T18:41:39Z",
+  "pathType" : 0,
+  "preferredFilename" : "test",
+  "title" : "test",
+  "version" : "1.0"
+}
