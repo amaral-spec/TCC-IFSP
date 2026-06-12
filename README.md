@@ -31,13 +31,9 @@ tcc-expressoes-faciais-tea/
 │   ├── Models/                    # Modelo .mlmodel gerado com Create ML
 │   ├── Views/                     # Telas e componentes da interface
 │   └── Controllers/               # Lógica de captura e inferência
-├── Training/                      # Scripts e configurações de treinamento
-│   └── CreateML_Training.mlproj   # Projeto Create ML
-├── Dataset/                       # Instruções de acesso ao FER-2013
-│   └── README_dataset.md
 ├── Docs/                          # Documentação adicional
 │   └── TCC_Gabriel_Amaral.pdf     # Trabalho completo (versão final)
-└── README.md                      # Este arquivo
+└── README.md
 ```
 
 ---
