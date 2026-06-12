@@ -87,10 +87,9 @@ Pessoas com Transtorno do Espectro Autista frequentemente apresentam dificuldade
 
 ## Autor
 
-**Gabriel do Amaral de Oliveira**
-IFSP – Campus Campinas
-📧 [seu-email@aluno.ifsp.edu.br](mailto:seu-email@aluno.ifsp.edu.br)
-
+**Gabriel do Amaral de Oliveira**   
+IFSP – Campus Campinas  
+Contato: [seu-email@aluno.ifsp.edu.br](mailto:gabrielamaral1301@gmail.com)
 ---
 
 ## Referências
